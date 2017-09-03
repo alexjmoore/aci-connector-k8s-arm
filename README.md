@@ -7,7 +7,7 @@ For more information, please see: https://github.com/Azure/aci-connector-k8s
 
 ## Dockerfile
 
-Updated Dockerfile for the ACI Connector to use an ARM based image, note this also required NodeJS and NPM packages to be installed.
+Updated Dockerfile for the ACI Connector to use an ARM based image, note this also required NodeJS and NPM packages to be installed - there may be better base images to use.
 
 ## aci-connector-rbac.yamp
 
