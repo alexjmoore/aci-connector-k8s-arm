@@ -15,4 +15,6 @@ Kubeadm comes with K8s RBAC enabled by default, so this deployment defines a Rol
 
 ## aci-connector-arm.yaml
 
-This is an updated deployment for the aci-connector itself, referencing the ARM based image on Docker Hub and the required service account defined above.
+This is an updated deployment for the aci-connector itself, referencing the ARM based image on Docker Hub and the required service account defined above.  Image available here:
+
+https://hub.docker.com/r/alexmoore/aci-connector-k8s-arm/
